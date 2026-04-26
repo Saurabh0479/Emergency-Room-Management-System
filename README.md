@@ -416,6 +416,7 @@ make run
 # Register a patient
 # Add a doctor
 # Assign doctor
+# Start treatment
 # End treatment
 # View report
 # Save & exit
